@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dezzaired
 - 👀 I’m interested in e-sport(especially League of Legends), love to play volleyball and i'm a big fan of every sport, i really enjoy gamble and betting sport events.
-- 🌱 I’m currently learning how2code in Java and use React library properly.
+- 🌱 I’m currently learning how2code in Java.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me. Just send me a message, e-mail: igorkawa99@gmail.com or send me an invitation at Facebook ;)
 
